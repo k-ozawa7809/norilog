@@ -1,0 +1,5 @@
+*.egg-info
+norilog.json
+venv
+__pycache__
+
