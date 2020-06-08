@@ -51,6 +51,5 @@ Webブラウザーでコメントを投稿するWebアプリケーションの�
    $ source venv/bin/activate
    $ pip install -e ./norilog
 
-
 3. setup.pyをリポジトリーにコミットする
 
